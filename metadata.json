@@ -1,0 +1,6 @@
+{
+  "name": "offsecfergali",
+  "description": "Red Teaming • Bug Bounty • CTF • Penetration Testing • Learning Walkthroughs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
